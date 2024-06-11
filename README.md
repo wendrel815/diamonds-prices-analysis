@@ -23,3 +23,5 @@
       - test 3 models
   - Metrics
       - test 5 metrics for ranking issues
+
+  **link to the data used in this project -> ** https://www.kaggle.com/datasets/shivam2503/diamonds
